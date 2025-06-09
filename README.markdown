@@ -23,6 +23,8 @@ _A C++ console application for converting lengths from meters to various imperia
 
 **UnitMaster: Length Converter Pro (Version 2.0)**, developed by Adrian Lesniak, is a practical C++ console application designed for converting length measurements from meters into common imperial units: inches, yards, and miles. The program boasts a user-friendly, menu-driven interface with colorful output (enhanced on Windows). It diligently logs all conversion operations to `conversion_history.txt` and any errors to `error_log.txt`, both with timestamps. Built with an object-oriented approach using `Converter`, `Logger`, and `FileHandler` classes (defined in the user-provided `Converter.h`), it offers a robust and organized solution for quick length conversions.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   📏 **Length Conversions**:
@@ -48,9 +50,22 @@ _A C++ console application for converting lengths from meters to various imperia
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
 
-_This section will be updated with screenshots showcasing the main menu, input for meter values, conversion results, the history display, and examples of the log/history files._
+_Screenshots showcasing the main menu, input for meter values, conversion results, the history display, and examples of the log/history files._
+
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
