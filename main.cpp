@@ -10,7 +10,7 @@ void Converter::displayHeader() {
     system("cls");
     setConsoleColor(11);
     std::cout << "****************************************************\n";
-    std::cout << "*        Length Unit Converter - Version 2.0        *\n";
+    std::cout << "*        Length Unit Converter - Version 2.0       *\n";
     std::cout << "*            Created by: Adrian Lesniak            *\n";
     std::cout << "****************************************************\n\n";
     
